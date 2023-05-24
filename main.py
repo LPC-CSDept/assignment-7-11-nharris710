@@ -27,4 +27,4 @@ ax.bar_label(bar4, padding=3)
 ax.legend(labels)
 ax.set_xticks(x, names)
 
-fig.savefig('A10.png')
+fig.savefig('A11.png')
